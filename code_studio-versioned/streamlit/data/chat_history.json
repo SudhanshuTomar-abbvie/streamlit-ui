@@ -1,0 +1,68 @@
+{
+  "conversations": {
+    "9699f9e7-a291-485b-83d9-7db4de07fca8": {
+      "title": "New Conversation (May 15, 2025)",
+      "created_at": "2025-05-15T07:53:07.841464",
+      "last_message_at": "2025-05-15T07:53:08.411610",
+      "messages": [
+        {
+          "role": "user",
+          "content": "who to call for rinvoq reactions?",
+          "timestamp": "2025-05-15T07:53:07.841154"
+        },
+        {
+          "role": "assistant",
+          "content": "I'm sorry, I encountered an error: Internal error: 'Response' object has no attribute 'get'. Please try again.",
+          "timestamp": "2025-05-15T07:53:08.409651"
+        }
+      ]
+    },
+    "f6e41d14-b669-4fe7-8147-8344463e69bf": {
+      "title": "New Conversation (May 15, 2025)",
+      "created_at": "2025-05-15T07:53:50.129407",
+      "last_message_at": "2025-05-15T07:54:07.905236",
+      "messages": [
+        {
+          "role": "user",
+          "content": "whom to contact for rinvoq reaction",
+          "timestamp": "2025-05-15T07:53:50.129111"
+        },
+        {
+          "role": "assistant",
+          "content": "For questions about a patient's access to RINVOQ, contact the Field Access Specialist at the provided phone number. If you need assistance with insurance benefits or eligibility, call 1-800-274-6867, Monday through Friday, 7 am \u2013 7 pm CT. Nurse Ambassadors are available for support but do not provide medical advice and will direct patients to their healthcare professional for treatment-related advice.",
+          "timestamp": "2025-05-15T07:53:50.647239",
+          "context": "Document 1:\n. | look forward to getting to know you and\nsupporting you with RINVOQ Complete resources.\nIfyour insurance changes or life throws you a curve ball, |...\n\nDocument 2:\n.\nE\nWe request that you promptly notify us of any changes in your patient\u2019s situation that may affect eligibility for our program.\nIf you have questio...\n\nDocument 3:\n.800.2RINVOQ (1.800.274.6867). Help is available\nMonday through Friday from 8:00 AM to 8:00 PM ET, except for holidays.\nVISUALLY CONNECT\nCreate a sens...\n\nDocument 4:\n.  It starts with your RINVOQ Complete Nurse Ambassador who is always there to get to know you.', 'CTA 1': 'Call 1-800-2RINVOQ (1-800-274-6867)', 'CTA...\n\nDocument 5:\n.  It starts with your RINVOQ Complete Nurse Ambassador who is always there to get to know you.', 'CTA 1': 'Call 1-800-2RINVOQ (1-800-274-6867)', 'CTA..."
+        },
+        {
+          "role": "user",
+          "content": "What are key strategies in 2025 to improve patient experience?",
+          "timestamp": "2025-05-15T07:54:07.735455"
+        },
+        {
+          "role": "assistant",
+          "content": "Key strategies in 2025 to improve patient experience include:\n\n1. Building a high-level Innovation Patient Engagement strategy that leverages predictive and proactive data to trigger personalized communications at the right moments in time.\n\n2. Identifying key touchpoints in the patient journey and creating patient personas to customize interactions according to their preferences, ensuring engagement meets patients where they are.\n\n3. Integrating all data and systems to achieve a unified patient view, using analytics to gain insights that enable personalized communication.\n\n4. Implementing a progressive data strategy for activation, which involves optimizing owned data, responsibly acquiring new data, asking patients for data input, and utilizing Predictive AI to fill gaps.\n\n5. Achieving an omnichannel vision of delivering the right communication at the right time by strategically innovating nodes throughout the patient journey to establish comprehensive, end-to-end visibility of patient interactions and experiences.\n\n6. Unifying independent AI-driven ML models to comprehensively view patient status, predict access pathways, and enable personalized targeting and engagement.\n\n7. Creating and implementing a communication plan for the bridge program to guide patients through their treatment journey and next steps.\n\n8. Orchestrating highly personalized, relevant interactions to protect the patient connection, improve patient access to treatment, and enhance the connected experience.\n\n9. Investing in smarter ways of working and flexible technology to improve APS service delivery, simplify operations, and reduce costs.\n\n10. Providing timely patient onboarding messaging and support to foster a seamless experience in onboarding therapy.\n\n11. Creating a refined, cohesive patient journey, communication, and data experience from entry to transition of the bridge program.\n\n12. Developing a measurement plan to optimize patient identification, classification, and bridge program conversions with regular bi-weekly reports.",
+          "timestamp": "2025-05-15T07:54:07.903690",
+          "context": "Document 1:\n?\nFuture State:\nBuild a high-level Innovation Patient Engagement strategy that leverages predictive/proactive data to trigger personalized communicati...\n\nDocument 2:\n.\nPatient Journey & Node Integration\nIdentify key touchpoints in the patient journey and create patient personas to customize interactions to their pr...\n\nDocument 3:\nStrategically innovate nodes throughout the patient journey to begin establishing comprehensive, end-to-end visibility of patient interactions and exp...\n\nDocument 4:\n?\nAPS Data Strategy Activation (aka the Pantry):\nThe APS Model System: Strategically leveraging our models to activate patients\nDeliver \u201cPerson-Center...\n\nDocument 5:\n.\nLack of end-to-end visibility of patients on their fill journey\nUnified AI/ML model system that powers engagement across entire fill journey\nA refin..."
+        }
+      ]
+    },
+    "99f3f5cc-b60f-410d-805e-6d8a4f470a31": {
+      "title": "New Conversation (May 15, 2025)",
+      "created_at": "2025-05-15T07:57:27.922933",
+      "last_message_at": "2025-05-15T07:57:51.271375",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What are leakage nodes which hinder patient conversion?",
+          "timestamp": "2025-05-15T07:57:27.922653"
+        },
+        {
+          "role": "assistant",
+          "content": "Leakage nodes that hinder patient conversion include:\n\n1. Node 1: Low PA Approval - Patients experience a low initial PA approval rate, which affects their progression through the funnel.\n2. Node 2: PA Approved, No Fill - A high number of patients receive PA approval but do not proceed to fill their prescriptions.\n3. Node 3: PA Denied, Bridge Eligible Low Fill - A significant percentage of PA denied patients who are eligible for the Bridge program do not fill their prescriptions.\n4. Node 4: Low Bridge PA Approvals - There is a low number of Bridge patients achieving subsequent PA approval.\n5. Node 5: Low Bridge to Paid Fill - There is a low transition rate from Bridge to paid fill, with patients not successfully moving from the Bridge program to obtaining a paid prescription.",
+          "timestamp": "2025-05-15T07:57:51.269697",
+          "context": "Document 1:\n.\nUse Case Minimum Viable Product (MVP) \u2013 DRAFT (OLD)\n\u201cThe Funnel\u201d\nComplete Enrolled Patients Only\nLeakage Point # 2 / Node 2: \u000bPA Approved, No Fill\nL...\n\nDocument 2:\n.\nMore of an operational idea for our team, but I\u2019ve noticed the lack of pre-existing reports on our end. \nI know we cover a lot of ground, but there ...\n\nDocument 3:\n.  This tactic may have an unintended consequence of stressing Bridge program with more patients\nNode: 3 \u2013 Increase % of Denied & Eligible\u00a0Patients in...\n\nDocument 4:\n. This is touched on in some communications, but I wonder how frequently this occurs and how much room there is to to explore the specific issue more ...\n\nDocument 5:\nAlso, for Node 5 patients, even when they get PA approval there can still be other factors which limit their access. Doing a deep dive into these may ..."
+        }
+      ]
+    }
+  }
+}

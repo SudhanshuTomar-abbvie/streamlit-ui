@@ -1,0 +1,65 @@
+2025-05-22 05:55:00.905 [info] Log level: Info
+2025-05-22 05:55:00.905 [info] Validating found git in: "git"
+2025-05-22 05:55:00.905 [info] Using git "2.43.5" from "git"
+2025-05-22 05:55:00.905 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-22 05:55:00.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.905 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 05:55:00.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.905 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-22 05:55:00.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.905 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 05:55:00.905 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.906 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 05:55:00.906 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.906 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 05:55:00.906 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.908 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-22 05:55:00.908 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.921 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-22 05:55:00.921 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.931 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-22 05:55:00.931 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 05:55:00.938 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-22 05:55:00.938 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:05:27.564 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:05:27.564 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:31:58.083 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:31:58.083 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:32:43.997 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-22 06:32:43.997 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:33:29.847 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:33:29.847 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:47:28.110 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:47:28.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:47:42.240 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:47:42.240 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:47:57.098 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-22 06:47:57.099 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:50:11.196 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 06:50:11.196 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 06:50:11.836 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-22 06:50:11.836 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-22 07:02:37.872 [info] > git init -b main [16ms]
+2025-05-22 07:02:37.877 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-22 07:02:37.882 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-22 07:02:37.893 [info] Open repository: /home/dataiku/workspace
+2025-05-22 07:02:37.904 [info] No remotes found in the git config file.
+2025-05-22 07:02:37.904 [info] > git config --get commit.template [5ms]
+2025-05-22 07:02:37.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:02:37.905 [warning] No such branch: main.
+2025-05-22 07:02:37.918 [info] > git status -z -uall [9ms]
+2025-05-22 07:02:37.942 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-05-22 07:02:37.942 [warning] No such branch: main.
+2025-05-22 07:02:37.945 [info] No remotes found in the git config file.
+2025-05-22 07:02:37.946 [info] > git config --get commit.template [4ms]
+2025-05-22 07:02:37.947 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:02:37.947 [warning] No such branch: main.
+2025-05-22 07:02:37.953 [info] > git status -z -uall [4ms]
+2025-05-22 07:02:37.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-22 07:02:37.968 [warning] No such branch: main.
+2025-05-22 07:02:38.565 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [3ms]
+2025-05-22 07:02:38.567 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:02:38.887 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-22 07:02:39.358 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:02:39.430 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:02:44.132 [info] > git check-ignore -v -z --stdin [2ms]

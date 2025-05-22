@@ -1,0 +1,8 @@
+2025-05-22 06:36:19.184 [info] Default formatter is set to null for workspace /home/dataiku/workspace
+2025-05-22 06:36:19.323 [info] > conda info --json
+2025-05-22 06:36:19.331 [info] Python interpreter path: ~/dataiku-python-code-envs/py39-dss/bin/python
+2025-05-22 06:36:19.504 [info] > pyenv which python
+2025-05-22 06:36:19.505 [info] cwd: .
+2025-05-22 06:36:20.699 [info] Starting Jedi language server for workspace.
+2025-05-22 06:41:23.457 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 06:41:27.317 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py

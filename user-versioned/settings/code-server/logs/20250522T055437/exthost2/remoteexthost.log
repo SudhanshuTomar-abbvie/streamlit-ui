@@ -1,0 +1,36 @@
+2025-05-22 06:36:18.034 [info] Extension host with pid 4697 started
+2025-05-22 06:36:18.034 [error] Error: EEXIST: file already exists, open '/home/dataiku/workspace/user-versioned/settings/code-server/User/workspaceStorage/63344558/vscode.lock'
+2025-05-22 06:36:18.040 [info] Lock '/home/dataiku/workspace/user-versioned/settings/code-server/User/workspaceStorage/63344558/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-05-22 06:36:18.054 [info] Lock '/home/dataiku/workspace/user-versioned/settings/code-server/User/workspaceStorage/63344558/vscode.lock': The lock does not look stale, elapsed: 122 ms, giving up.
+2025-05-22 06:36:18.062 [info] Lock '/home/dataiku/workspace/user-versioned/settings/code-server/User/workspaceStorage/63344558-1/vscode.lock': Lock acquired.
+2025-05-22 06:36:18.153 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-22 06:36:18.155 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-05-22 06:36:18.155 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-05-22 06:36:19.056 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-05-22 06:36:19.194 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-05-22 06:36:19.276 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-22 06:36:19.276 [info] ExtensionService#_doActivateExtension Dataiku.aicodeassistant, startup: true, activationEvent: '*'
+2025-05-22 06:36:19.401 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-22 06:36:19.401 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-22 06:36:19.566 [info] Eager extensions activated
+2025-05-22 06:36:19.567 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 06:36:19.567 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-22 06:36:33.585 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-05-22 07:03:00.042 [warning] [Decorations] CAPPING events from decorations provider vscode.git 603
+2025-05-22 07:03:00.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 603
+2025-05-22 07:03:01.057 [error] Error: No such branch: main.
+	at F.getBranch (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)
+2025-05-22 07:03:01.083 [error] Error: No such branch: main.
+	at F.getBranch (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:935457)
+	at async T.retryRun (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1028070)
+	at async T.run (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1027674)
+	at async T.getBranch (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1016055)
+	at async T.getBranchBase (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:1016341)
+	at async t.GitHistoryProvider.resolveHEADMergeBase (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:945804)
+	at async t.GitHistoryProvider.onDidRunGitStatus (/opt/dataiku/code-server/lib/vscode/extensions/git/dist/main.js:2:940157)

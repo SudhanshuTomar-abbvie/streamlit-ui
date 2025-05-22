@@ -1,0 +1,8 @@
+{
+ "workbench.colorTheme":"Visual Studio Dark",
+ "git.ignoreLegacyWarning":true,
+ "telemetry.enableTelemetry": false,
+ "update.mode": "none",
+ "extensions.autoCheckUpdates": false,
+ "extensions.autoUpdate": false
+}

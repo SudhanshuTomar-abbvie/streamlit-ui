@@ -1,0 +1,14 @@
+[
+  {
+    "isDirectory": true,
+    "path": "/vscode-extensions",
+    "size": 0,
+    "lastModified": 1747840178170
+  },
+  {
+    "isDirectory": false,
+    "path": "/vscode-extensions/extensions.json",
+    "size": 6063,
+    "lastModified": 1747840178169
+  }
+]

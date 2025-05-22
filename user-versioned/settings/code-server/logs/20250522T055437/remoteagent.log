@@ -1,0 +1,44 @@
+2025-05-22 05:54:37.761 [info] 
+
+
+
+
+2025-05-22 05:54:37.762 [info] 
+
+
+
+
+2025-05-22 05:54:37.781 [info] Extension host agent started.
+2025-05-22 05:54:37.843 [info] Extension host agent started.
+2025-05-22 05:54:37.850 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dataiku/workspace/code_studio-resources/vscode-extensions
+2025-05-22 05:54:37.857 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dataiku/workspace/code_studio-resources/vscode-extensions
+2025-05-22 05:54:37.912 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dataiku/workspace/code_studio-resources/vscode-extensions
+2025-05-22 05:54:37.915 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dataiku/workspace/code_studio-resources/vscode-extensions
+2025-05-22 05:54:37.939 [error] [127.0.0.1][2288f580][ManagementConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:37.951 [error] [127.0.0.1][1c2fcbc7][ManagementConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:38.049 [error] [127.0.0.1][807b797d][ExtensionHostConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:38.050 [error] [127.0.0.1][8d123dc2][ExtensionHostConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:38.128 [error] [127.0.0.1][7f6a6336][ExtensionHostConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:38.192 [error] [127.0.0.1][e469f69b][ManagementConnection] Unknown reconnection token (never seen).
+2025-05-22 05:54:56.634 [info] [127.0.0.1][98d08711][ManagementConnection] New connection established.
+2025-05-22 05:54:57.691 [info] [127.0.0.1][cc15fa36][ExtensionHostConnection] New connection established.
+2025-05-22 05:54:57.788 [info] [127.0.0.1][cc15fa36][ExtensionHostConnection] <156> Launched Extension Host Process.
+2025-05-22 06:36:16.433 [info] [127.0.0.1][b3dfd8ea][ManagementConnection] New connection established.
+2025-05-22 06:36:17.354 [info] [127.0.0.1][a704d60a][ExtensionHostConnection] New connection established.
+2025-05-22 06:36:17.358 [info] [127.0.0.1][a704d60a][ExtensionHostConnection] <4697> Launched Extension Host Process.
+2025-05-22 06:36:18.791 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2025-05-22 06:36:18.791 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2025-05-22 06:36:18.792 [warning] RequestStore#acceptReply was called without receiving a matching request 24
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 25
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 26
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 27
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 28
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 29
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 30
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 31
+2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 32
