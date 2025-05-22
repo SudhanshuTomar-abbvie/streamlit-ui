@@ -42,3 +42,22 @@
 2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 30
 2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 31
 2025-05-22 06:36:20.064 [warning] RequestStore#acceptReply was called without receiving a matching request 32
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 33
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2025-05-22 07:07:59.474 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2025-05-22 07:14:05.971 [info] [127.0.0.1][b2889de3][ManagementConnection] New connection established.
+2025-05-22 07:14:11.340 [info] [127.0.0.1][9160619d][ExtensionHostConnection] New connection established.
+2025-05-22 07:14:11.349 [info] [127.0.0.1][9160619d][ExtensionHostConnection] <12972> Launched Extension Host Process.
+2025-05-22 07:23:49.829 [info] [127.0.0.1][b3dfd8ea][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-22 07:23:49.894 [info] [127.0.0.1][a704d60a][ExtensionHostConnection] <4697> Extension Host Process exited with code: 0, signal: null.
+2025-05-22 07:23:52.010 [info] [127.0.0.1][b2889de3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-22 07:37:00.218 [info] [127.0.0.1][98d08711][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-22 07:37:00.270 [info] [127.0.0.1][cc15fa36][ExtensionHostConnection] <156> Extension Host Process exited with code: 0, signal: null.
+2025-05-22 07:38:19.139 [info] [127.0.0.1][1f9e4535][ManagementConnection] New connection established.
+2025-05-22 07:38:20.114 [info] [127.0.0.1][837ca700][ExtensionHostConnection] New connection established.
+2025-05-22 07:38:20.123 [info] [127.0.0.1][837ca700][ExtensionHostConnection] <16745> Launched Extension Host Process.

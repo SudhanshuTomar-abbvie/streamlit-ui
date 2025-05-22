@@ -33,3 +33,65 @@ WARNING:pygls.protocol:Cancel notification for unknown message id "27"
 
 2025-05-22 06:50:12.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "79"
 
+2025-05-22 07:15:36.080 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "126"
+
+2025-05-22 07:16:17.670 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "142"
+
+2025-05-22 07:17:23.078 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "204"
+
+2025-05-22 07:19:26.209 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "258"
+
+2025-05-22 07:20:26.980 [info] ERROR:pygls.protocol:Failed to handle request 279 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/dataiku/workspace/code_studio-versioned/streamlit/app.py'), position=13:5, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+
+2025-05-22 07:20:27.065 [info] [Error - 7:20:26 AM] Request textDocument/hover failed.
+2025-05-22 07:20:27.065 [info]   Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+2025-05-22 07:26:30.670 [info] ERROR:pygls.protocol:Failed to handle request 388 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py'), position=33:27, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+
+2025-05-22 07:26:30.671 [info] [Error - 7:26:30 AM] Request textDocument/hover failed.
+2025-05-22 07:26:30.671 [info]   Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}
+2025-05-22 07:27:32.004 [info] ERROR:pygls.protocol:Failed to handle request 414 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py'), position=43:45, work_done_token=None)
+Traceback (most recent call last):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover
+    hover_text = jedi_utils.hover_text(
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text
+    if _hover_ignore(name, initialization_options):
+  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+
+2025-05-22 07:27:32.005 [info] [Error - 7:27:32 AM] Request textDocument/hover failed.
+2025-05-22 07:27:32.005 [info]   Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32602 
+{'traceback': ['  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/server.py", line 383, in hover\n    hover_text = jedi_utils.hover_text(\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 660, in hover_text\n    if _hover_ignore(name, initialization_options):\n', '  File "/home/dataiku/.local/share/code-server/local-extensions/ms-python.python-2024.8.1-universal/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 640, in _hover_ignore\n    ignore_type: HoverDisableOptions = getattr(\n']}

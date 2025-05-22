@@ -1,0 +1,6 @@
+2025-05-22 07:14:15.453 [info] Default formatter is set to null for workspace /home/dataiku/workspace
+2025-05-22 07:14:15.727 [info] > conda info --json
+2025-05-22 07:14:15.732 [info] Python interpreter path: ~/dataiku-python-code-envs/py39-dss/bin/python
+2025-05-22 07:14:15.955 [info] > pyenv which python
+2025-05-22 07:14:15.955 [info] cwd: .
+2025-05-22 07:14:17.320 [info] Starting Jedi language server for workspace.

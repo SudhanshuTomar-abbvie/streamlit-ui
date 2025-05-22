@@ -63,3 +63,250 @@
 2025-05-22 07:02:39.358 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
 2025-05-22 07:02:39.430 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [2ms]
 2025-05-22 07:02:44.132 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:03:23.079 [info] > git add -A -- . [187ms]
+2025-05-22 07:03:23.111 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [27ms]
+2025-05-22 07:03:23.111 [info] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+2025-05-22 07:03:23.117 [info] > git config --get-all user.name [2ms]
+2025-05-22 07:03:23.125 [info] No remotes found in the git config file.
+2025-05-22 07:03:23.125 [info] > git config --get commit.template [4ms]
+2025-05-22 07:03:23.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:03:23.126 [warning] No such branch: main.
+2025-05-22 07:03:23.137 [info] > git status -z -uall [6ms]
+2025-05-22 07:03:23.151 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-22 07:03:23.151 [warning] No such branch: main.
+2025-05-22 07:03:23.448 [info] No remotes found in the git config file.
+2025-05-22 07:03:23.449 [info] > git config --get commit.template [4ms]
+2025-05-22 07:03:23.449 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:03:23.450 [warning] No such branch: main.
+2025-05-22 07:03:23.459 [info] > git status -z -uall [6ms]
+2025-05-22 07:03:23.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-05-22 07:03:23.479 [warning] No such branch: main.
+2025-05-22 07:03:24.800 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:03:24.805 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [2ms]
+2025-05-22 07:03:24.946 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:07:20.662 [info] No remotes found in the git config file.
+2025-05-22 07:07:20.663 [info] > git config --get commit.template [5ms]
+2025-05-22 07:07:20.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:07:20.664 [warning] No such branch: main.
+2025-05-22 07:07:20.674 [info] > git status -z -uall [7ms]
+2025-05-22 07:07:20.687 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-05-22 07:07:20.687 [warning] No such branch: main.
+2025-05-22 07:07:25.694 [info] No remotes found in the git config file.
+2025-05-22 07:07:25.695 [info] > git config --get commit.template [3ms]
+2025-05-22 07:07:25.696 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:07:25.696 [warning] No such branch: main.
+2025-05-22 07:07:25.704 [info] > git status -z -uall [6ms]
+2025-05-22 07:07:25.714 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-22 07:07:25.714 [warning] No such branch: main.
+2025-05-22 07:08:15.616 [info] No remotes found in the git config file.
+2025-05-22 07:08:15.616 [info] > git config --get commit.template [6ms]
+2025-05-22 07:08:15.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:08:15.617 [warning] No such branch: main.
+2025-05-22 07:08:15.627 [info] > git status -z -uall [6ms]
+2025-05-22 07:08:15.641 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-22 07:08:15.641 [warning] No such branch: main.
+2025-05-22 07:08:20.648 [info] No remotes found in the git config file.
+2025-05-22 07:08:20.648 [info] > git config --get commit.template [3ms]
+2025-05-22 07:08:20.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:08:20.650 [warning] No such branch: main.
+2025-05-22 07:08:20.661 [info] > git status -z -uall [9ms]
+2025-05-22 07:08:20.670 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-22 07:08:20.670 [warning] No such branch: main.
+2025-05-22 07:08:52.193 [info] No remotes found in the git config file.
+2025-05-22 07:08:52.193 [info] > git config --get commit.template [4ms]
+2025-05-22 07:08:52.194 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:08:52.194 [warning] No such branch: main.
+2025-05-22 07:08:52.203 [info] > git status -z -uall [6ms]
+2025-05-22 07:08:52.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-05-22 07:08:52.217 [warning] No such branch: main.
+2025-05-22 07:08:57.224 [info] No remotes found in the git config file.
+2025-05-22 07:08:57.224 [info] > git config --get commit.template [3ms]
+2025-05-22 07:08:57.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:08:57.226 [warning] No such branch: main.
+2025-05-22 07:08:57.234 [info] > git status -z -uall [6ms]
+2025-05-22 07:08:57.244 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-22 07:08:57.244 [warning] No such branch: main.
+2025-05-22 07:09:30.812 [info] No remotes found in the git config file.
+2025-05-22 07:09:30.812 [info] > git config --get commit.template [5ms]
+2025-05-22 07:09:30.813 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:09:30.813 [warning] No such branch: main.
+2025-05-22 07:09:30.824 [info] > git status -z -uall [7ms]
+2025-05-22 07:09:30.841 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-22 07:09:30.841 [warning] No such branch: main.
+2025-05-22 07:09:35.848 [info] No remotes found in the git config file.
+2025-05-22 07:09:35.849 [info] > git config --get commit.template [4ms]
+2025-05-22 07:09:35.850 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:09:35.850 [warning] No such branch: main.
+2025-05-22 07:09:35.860 [info] > git status -z -uall [7ms]
+2025-05-22 07:09:35.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-22 07:09:35.869 [warning] No such branch: main.
+2025-05-22 07:09:48.845 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:09:50.262 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:09:50.824 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:10:22.072 [info] No remotes found in the git config file.
+2025-05-22 07:10:22.073 [info] > git config --get commit.template [3ms]
+2025-05-22 07:10:22.073 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:10:22.074 [warning] No such branch: main.
+2025-05-22 07:10:22.083 [info] > git status -z -uall [7ms]
+2025-05-22 07:10:22.094 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-05-22 07:10:22.094 [warning] No such branch: main.
+2025-05-22 07:11:00.323 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:11:00.328 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [2ms]
+2025-05-22 07:11:00.369 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:11:09.623 [info] No remotes found in the git config file.
+2025-05-22 07:11:09.623 [info] > git config --get commit.template [3ms]
+2025-05-22 07:11:09.624 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:11:09.633 [info] > git status -z -uall [6ms]
+2025-05-22 07:11:09.641 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-05-22 07:11:09.646 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:11:09.646 [warning] git config failed: Failed to execute git
+2025-05-22 07:11:09.652 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:11:09.657 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:11:09.657 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:11:13.378 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:11:13.384 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [3ms]
+2025-05-22 07:11:13.457 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [0ms]
+2025-05-22 07:11:19.995 [info] No remotes found in the git config file.
+2025-05-22 07:11:19.995 [info] > git config --get commit.template [4ms]
+2025-05-22 07:11:19.996 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:11:20.005 [info] > git status -z -uall [6ms]
+2025-05-22 07:11:20.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:11:20.014 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:11:20.014 [warning] git config failed: Failed to execute git
+2025-05-22 07:11:20.019 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:11:20.024 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:11:20.024 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:11:23.670 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:11:23.676 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [2ms]
+2025-05-22 07:11:23.723 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [3ms]
+2025-05-22 07:11:28.872 [info] > git config --get commit.template [3ms]
+2025-05-22 07:11:28.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:11:28.882 [info] > git status -z -uall [6ms]
+2025-05-22 07:11:28.886 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:11:28.891 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:11:28.891 [warning] git config failed: Failed to execute git
+2025-05-22 07:11:28.897 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:11:28.901 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:11:28.901 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:11.099 [info] > git config --get commit.template [4ms]
+2025-05-22 07:12:11.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:11.110 [info] > git status -z -uall [6ms]
+2025-05-22 07:12:11.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:11.121 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:12:11.121 [warning] git config failed: Failed to execute git
+2025-05-22 07:12:11.126 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:12:11.131 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:12:11.131 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:16.125 [info] > git config --get commit.template [5ms]
+2025-05-22 07:12:16.126 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:16.135 [info] > git status -z -uall [6ms]
+2025-05-22 07:12:16.139 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:12:16.144 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:12:16.144 [warning] git config failed: Failed to execute git
+2025-05-22 07:12:16.149 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:12:16.153 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-05-22 07:12:16.153 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:30.574 [info] > git config --get commit.template [6ms]
+2025-05-22 07:12:30.574 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:30.584 [info] > git status -z -uall [7ms]
+2025-05-22 07:12:30.589 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:30.594 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:12:30.594 [warning] git config failed: Failed to execute git
+2025-05-22 07:12:30.599 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2025-05-22 07:12:30.603 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:12:30.603 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:50.893 [info] > git config --get commit.template [4ms]
+2025-05-22 07:12:50.894 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-22 07:12:50.904 [info] > git status -z -uall [6ms]
+2025-05-22 07:12:50.909 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:50.913 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:12:50.913 [warning] git config failed: Failed to execute git
+2025-05-22 07:12:50.920 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2025-05-22 07:12:50.924 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-05-22 07:12:50.924 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:52.451 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:12:52.457 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [2ms]
+2025-05-22 07:12:52.528 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [3ms]
+2025-05-22 07:12:54.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main [3ms]
+2025-05-22 07:12:54.286 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-05-22 07:12:54.291 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2025-05-22 07:12:55.156 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:12:55.918 [info] > git config --get commit.template [5ms]
+2025-05-22 07:12:55.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:55.928 [info] > git status -z -uall [6ms]
+2025-05-22 07:12:55.934 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:12:55.939 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:12:55.939 [warning] git config failed: Failed to execute git
+2025-05-22 07:12:55.944 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:12:55.948 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2025-05-22 07:12:55.948 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:12:55.952 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1ms]
+2025-05-22 07:12:55.957 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2025-05-22 07:12:55.962 [info] > git diff --name-status -z --diff-filter=ADMR c3441e0314ffa530e4a05dd8e1318b46f00c1fc8...refs/remotes/origin/main [2ms]
+2025-05-22 07:12:56.003 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-05-22 07:12:56.008 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2025-05-22 07:13:29.929 [info] > git show --textconv :code_studio-versioned/streamlit/services/chat_service.py [4ms]
+2025-05-22 07:13:29.931 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/chat_service.py [1ms]
+2025-05-22 07:13:29.936 [info] > git cat-file -s 2632953234905c6e3263acefc19083178e62ada1 [1ms]
+2025-05-22 07:13:39.860 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:14:17.311 [info] > git show --textconv :code_studio-versioned/streamlit/ui/chat_page.py [5ms]
+2025-05-22 07:14:17.314 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/ui/chat_page.py [3ms]
+2025-05-22 07:14:17.321 [info] > git cat-file -s cfafdcc2011291f13bee3c5e5b81cb087b4338a1 [3ms]
+2025-05-22 07:14:47.047 [info] > git show --textconv :code_studio-versioned/streamlit/services/history_service.py [5ms]
+2025-05-22 07:14:47.049 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py [2ms]
+2025-05-22 07:14:47.056 [info] > git cat-file -s 6630438c2595257104a6c3665a45bb17a83209e4 [3ms]
+2025-05-22 07:15:22.154 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-22 07:15:23.167 [info] > git show --textconv :code_studio-versioned/streamlit/utils/session_state.py [6ms]
+2025-05-22 07:15:23.169 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py [3ms]
+2025-05-22 07:15:23.174 [info] > git cat-file -s ea33b88887a1c76be416b7c7407e6e4f6564a896 [2ms]
+2025-05-22 07:16:08.331 [info] > git show --textconv :code_studio-versioned/streamlit/utils/constants.py [6ms]
+2025-05-22 07:16:08.332 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py [2ms]
+2025-05-22 07:16:08.338 [info] > git cat-file -s b4a504ce389e75e214f18200ec02cf9ab17a456c [2ms]
+2025-05-22 07:18:10.538 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/app.py [6ms]
+2025-05-22 07:18:10.542 [info] > git show --textconv :code_studio-versioned/streamlit/app.py [15ms]
+2025-05-22 07:18:10.543 [info] > git cat-file -s 3f9b1d4c18da78e82dbc561483fbb067313ad4a4 [1ms]
+2025-05-22 07:24:43.020 [info] > git config --get commit.template [6ms]
+2025-05-22 07:24:43.021 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:24:43.036 [info] > git status -z -uall [10ms]
+2025-05-22 07:24:43.046 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-05-22 07:24:43.053 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:24:43.053 [warning] git config failed: Failed to execute git
+2025-05-22 07:24:43.059 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:24:43.064 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-05-22 07:24:43.064 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:24:43.466 [info] > git show --textconv :code_studio-versioned/streamlit/utils/session_state.py [5ms]
+2025-05-22 07:24:43.467 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py [3ms]
+2025-05-22 07:24:43.474 [info] > git cat-file -s ea33b88887a1c76be416b7c7407e6e4f6564a896 [3ms]
+2025-05-22 07:33:12.545 [info] > git config --get commit.template [5ms]
+2025-05-22 07:33:12.547 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:33:12.559 [info] > git status -z -uall [9ms]
+2025-05-22 07:33:12.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-05-22 07:33:12.571 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:33:12.571 [warning] git config failed: Failed to execute git
+2025-05-22 07:33:12.576 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:33:12.580 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-05-22 07:33:12.580 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:33:12.961 [info] > git show --textconv :code_studio-versioned/streamlit/services/chat_service.py [4ms]
+2025-05-22 07:33:12.962 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/services/chat_service.py [2ms]
+2025-05-22 07:33:12.966 [info] > git cat-file -s 2632953234905c6e3263acefc19083178e62ada1 [2ms]
+2025-05-22 07:33:17.576 [info] > git config --get commit.template [5ms]
+2025-05-22 07:33:17.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:33:17.591 [info] > git status -z -uall [10ms]
+2025-05-22 07:33:17.598 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:33:17.603 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2025-05-22 07:33:17.603 [warning] git config failed: Failed to execute git
+2025-05-22 07:33:17.609 [info] > git reflog main --grep-reflog=branch: Created from *. [3ms]
+2025-05-22 07:33:17.616 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2025-05-22 07:33:17.616 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref

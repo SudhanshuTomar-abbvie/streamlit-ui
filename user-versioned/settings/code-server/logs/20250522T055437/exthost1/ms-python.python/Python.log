@@ -6,3 +6,36 @@
 2025-05-22 05:55:01.913 [info] Starting Jedi language server for workspace.
 2025-05-22 06:32:07.549 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/text_extractor.py
 2025-05-22 06:32:39.192 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/text_extractor.py
+2025-05-22 07:07:37.962 [info] Send text to terminal: source /home/dataiku/dataiku-python-code-envs/py39-dss/bin/activate
+2025-05-22 07:13:34.058 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/services/chat_service.py
+2025-05-22 07:13:49.210 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/services/chat_service.py
+2025-05-22 07:14:21.862 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/ui/chat_page.py
+2025-05-22 07:14:51.045 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/services/history_service.py
+2025-05-22 07:15:39.914 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:16:19.033 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:16:24.434 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:16:27.570 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:16:33.302 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:16:41.283 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:17:04.886 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:17:15.070 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:17:25.828 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:17:41.649 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:17:43.031 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py
+2025-05-22 07:19:01.527 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:19:22.850 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:19:43.734 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:19:56.646 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:20:28.686 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:20:30.647 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:22:31.371 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:22:32.428 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:22:35.870 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:22:50.141 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:23:42.247 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/app.py
+2025-05-22 07:24:46.517 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:25:44.768 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:26:26.036 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:26:54.269 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:27:11.796 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/utils/session_state.py
+2025-05-22 07:33:17.935 [info] Discover tests for workspace name: workspace - uri: /home/dataiku/workspace/code_studio-versioned/streamlit/services/chat_service.py

@@ -52,3 +52,23 @@
 2025-05-22 07:03:00.068 [info] > git status -z -uall [4ms]
 2025-05-22 07:03:00.082 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
 2025-05-22 07:03:00.082 [warning] No such branch: main.
+2025-05-22 07:03:59.987 [info] > git check-ignore -v -z --stdin [2ms]
+2025-05-22 07:04:59.500 [info] > git show --textconv :code_studio-versioned/streamlit/utils/constants.py [5ms]
+2025-05-22 07:04:59.501 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py [2ms]
+2025-05-22 07:04:59.506 [info] > git cat-file -s b4a504ce389e75e214f18200ec02cf9ab17a456c [2ms]
+2025-05-22 07:23:47.979 [info] > git config --get commit.template [4ms]
+2025-05-22 07:23:47.979 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-05-22 07:23:47.993 [info] > git status -z -uall [9ms]
+2025-05-22 07:23:48.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-05-22 07:23:48.015 [info] > git config --local branch.main.vscode-merge-base [1ms]
+2025-05-22 07:23:48.015 [warning] git config failed: Failed to execute git
+2025-05-22 07:23:48.021 [info] > git reflog main --grep-reflog=branch: Created from *. [2ms]
+2025-05-22 07:23:48.026 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2025-05-22 07:23:48.026 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-22 07:23:48.032 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2025-05-22 07:23:48.040 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [5ms]
+2025-05-22 07:23:48.043 [info] > git ls-files --stage -- /home/dataiku/workspace/code_studio-versioned/streamlit/utils/constants.py [4ms]
+2025-05-22 07:23:48.046 [info] > git diff --name-status -z --diff-filter=ADMR c3441e0314ffa530e4a05dd8e1318b46f00c1fc8...refs/remotes/origin/main [3ms]
+2025-05-22 07:23:48.048 [info] > git cat-file -s b4a504ce389e75e214f18200ec02cf9ab17a456c [2ms]
+2025-05-22 07:23:48.111 [info] > git show --textconv :code_studio-versioned/streamlit/utils/constants.py [2ms]
+2025-05-22 07:23:48.526 [info] > git check-ignore -v -z --stdin [2ms]

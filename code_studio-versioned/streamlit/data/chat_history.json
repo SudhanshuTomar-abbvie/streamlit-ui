@@ -63,6 +63,86 @@
           "context": "Document 1:\n.\nUse Case Minimum Viable Product (MVP) \u2013 DRAFT (OLD)\n\u201cThe Funnel\u201d\nComplete Enrolled Patients Only\nLeakage Point # 2 / Node 2: \u000bPA Approved, No Fill\nL...\n\nDocument 2:\n.\nMore of an operational idea for our team, but I\u2019ve noticed the lack of pre-existing reports on our end. \nI know we cover a lot of ground, but there ...\n\nDocument 3:\n.  This tactic may have an unintended consequence of stressing Bridge program with more patients\nNode: 3 \u2013 Increase % of Denied & Eligible\u00a0Patients in...\n\nDocument 4:\n. This is touched on in some communications, but I wonder how frequently this occurs and how much room there is to to explore the specific issue more ...\n\nDocument 5:\nAlso, for Node 5 patients, even when they get PA approval there can still be other factors which limit their access. Doing a deep dive into these may ..."
         }
       ]
+    },
+    "7c4a1a3f-3f7d-453e-a172-015f052483ba": {
+      "title": "What factors most impact patient satisfaction?",
+      "created_at": "2025-05-22T07:27:53.104479",
+      "last_message_at": "2025-05-22T07:33:17.599216",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What factors most impact patient satisfaction?",
+          "timestamp": "2025-05-22T07:27:53.103872"
+        },
+        {
+          "role": "assistant",
+          "content": "Factors impacting patient satisfaction include:\n\n1. Communication Overload: Patients experience an overwhelming amount of information, leading to analysis paralysis and impacting their ability to make informed decisions.\n\n2. Patient Engagement and Adherence: There is a shortfall in providing clear and precise guidance on accessing medication and maintaining adherence to treatment plans. Patients may also hesitate to continue prescribed routines once symptoms improve.\n\n3. Technology and Data Utilization: Leveraging AI and machine learning to identify root causes of patient problems can improve care and predict patient demand and intent, enhancing satisfaction.\n\n4. Communication Streamlining and Personalization: Integrating progress tracking, immediate feedback, and personalized experiences into the patient journey can increase engagement and satisfaction.\n\n5. Storytelling and Gamification: Educating patients about their condition and treatment adherence through storytelling and gamification can enhance their understanding and satisfaction.\n\n6. Attention-Capturing Strategies: Using oversized mailers effectively captures patient attention, potentially impacting satisfaction.\n\n7. Self-Enrollment Facilitation: Increasing patient self-enrollment for specific products suggests areas for improved outreach and facilitation, impacting satisfaction.",
+          "timestamp": "2025-05-22T07:27:56.059969",
+          "context": "Document 1:\nToo many communications. Multi-step process to achieve outcomes and you have to engage with different people at different times.\n44\nPatient Engagement...\n\nDocument 2:\nStory tell about the whole journey??\n31\nTechnology and Data Utilization (1,5)\n1.  Leveraging AI and machine learning to identify root causes of patien...\n\nDocument 3:\n. If we know drivers of patient problems, that leads to higher predictability of patient demand which can also lead to being able to better predict pa...\n\nDocument 4:\n.\n Many people love to take an active role in tracking progress and accomplishments for even simple tasks. Many also appreciate immediate and consiste...\n\nDocument 5:\n.\nMore of an operational idea for our team, but I\u2019ve noticed the lack of pre-existing reports on our end. \nI know we cover a lot of ground, but there ..."
+        },
+        {
+          "role": "user",
+          "content": "What are key strategies in 2025 to improve patient experience?",
+          "timestamp": "2025-05-22T07:28:46.589089"
+        },
+        {
+          "role": "assistant",
+          "content": "Key strategies in 2025 to improve patient experience include:\n\n1. Building a high-level Innovation Patient Engagement strategy that leverages predictive and proactive data to trigger personalized communications at the right moments in time.\n\n2. Identifying key touchpoints in the patient journey and creating patient personas to customize interactions according to their preferences, ensuring engagement meets patients where they are.\n\n3. Integrating all data and systems to achieve a unified patient view, using analytics to gain insights that enable personalized communication.\n\n4. Implementing a progressive data strategy for activation, which involves optimizing owned data, responsibly acquiring new data, asking patients for data input, and utilizing Predictive AI to fill gaps.\n\n5. Achieving an omnichannel vision of delivering the right communication at the right time by strategically innovating nodes throughout the patient journey to establish comprehensive, end-to-end visibility of patient interactions and experiences.\n\n6. Unifying independent AI-driven ML models to comprehensively view patient status, predict access pathways, and enable personalized targeting and engagement.\n\n7. Creating and implementing a communication plan for the bridge program to guide patients through their treatment journey and next steps.\n\n8. Leveraging the APS Model System to strategically activate patients, deliver person-centered care, enhance the connected experience, minimize access barriers, and scale an exceptional patient start and market-differentiated customer experience.\n\n9. Orchestrating highly personalized, relevant interactions to protect the patient connection that APS is known for, improving patient access to treatment with or without human involvement.\n\n10. Radically transforming APS productivity to drive efficiency of administrative tasks, freeing up time to focus on meaningful patient interactions with agility.\n\n11. Investing in smarter ways of working and flexible technology to improve APS service delivery, simplify operations, and reduce cost to serve.\n\n12. Implementing audience targeting, personalized content, and ensuring communication occurs at the right place and time for performance optimization.\n\n13. Delivering best-in-industry experience through timely patient onboarding messaging and support to foster a seamless experience to onboarding therapy.\n\n14. Creating and executing an innovative engagement strategy to guide patients through their treatment journey and prescription fulfillment.\n\n15. Building foundational components to unify the patient experience and adding new node tactics to enhance patient experience.\n\n16. Developing a measurement plan to optimize patient identification, classification, and bridge program conversions with regular bi-weekly reports.",
+          "timestamp": "2025-05-22T07:28:46.809668",
+          "context": "Document 1:\n?\nFuture State:\nBuild a high-level Innovation Patient Engagement strategy that leverages predictive/proactive data to trigger personalized communicati...\n\nDocument 2:\n.\nPatient Journey & Node Integration\nIdentify key touchpoints in the patient journey and create patient personas to customize interactions to their pr...\n\nDocument 3:\nStrategically innovate nodes throughout the patient journey to begin establishing comprehensive, end-to-end visibility of patient interactions and exp...\n\nDocument 4:\n?\nAPS Data Strategy Activation (aka the Pantry):\nThe APS Model System: Strategically leveraging our models to activate patients\nDeliver \u201cPerson-Center...\n\nDocument 5:\n.\nLack of end-to-end visibility of patients on their fill journey\nUnified AI/ML model system that powers engagement across entire fill journey\nA refin..."
+        }
+      ]
+    },
+    "e4a02318-e532-48f3-9d0b-edd7fe5f700f": {
+      "title": "How to enroll a patient into the Bridge Program?",
+      "created_at": "2025-05-22T07:33:42.542923",
+      "last_message_at": "2025-05-22T07:36:18.851002",
+      "messages": [
+        {
+          "role": "user",
+          "content": "How to enroll a patient into the Bridge Program?",
+          "timestamp": "2025-05-22T07:33:42.542276"
+        },
+        {
+          "role": "assistant",
+          "content": "To enroll a patient into the AbbVie Bridge Program, the following steps are involved:\n\n1. **Eligibility Assessment**: The patient's Prior Authorization (PA) must be denied, and they must be eligible for the bridge program. The AbbVie AAS (AbbVie Access Solutions) manages the qualification process.\n\n2. **Insurance Verification**: The patient must be commercially insured and enrolled in the Complete Patient program by their healthcare provider (HCP).\n\n3. **HCP Attestation**: The AAS agent attempts to contact the HCP office to obtain a verbal attestation that an appeal is on file. If verbal attestation is not received, the AAS agent sends a Fax Attestation form to the HCP and tasks the Field Access Specialist (FAS) to follow up with the HCP on Day 7 and Day 14.\n\n4. **Second Prescription Requirement**: A second prescription from the HCP is required for the patient to start the bridge program.\n\n5. **Medication Dispensing**: Once eligibility is confirmed, medication is dispensed via AbbVie Pharmacy Solutions.\n\n6. **Monthly Verification**: AAS verifies the patient's status monthly to ensure continued eligibility.\n\n7. **Transition to Specialty Pharmacy**: If the PA status changes to approved, the patient is transitioned to a Specialty Pharmacy for a paid fill.\n\nPatients typically remain in the bridge program for an average of 6-7 months.",
+          "timestamp": "2025-05-22T07:33:43.945791",
+          "context": "Document 1:\n### Extracted Text:\nBACKGROUND:\nAbility to identify patients at various points along the patient journey in a proactive manner is an unmet, transforma...\n\nDocument 2:\n.\nAbbVie Bridge Program is a program designed to assist patients in the start of their therapeutic treatment while their Prior Authorization is in the...\n\nDocument 3:\n.\\xa0\\xa0\\xa0\\xa0 PROJECT BACKGROUND (project information, goals, measurble objectives-From PSIT  brief), Objective:': 'Patient enters Bridge program\\...\n\nDocument 4:\n.\nPatients may be unaware of the bridge program, specifically how to qualify, access, engage and transition from program when PA is approved\nPatients ...\n\nDocument 5:\n.\nHUMAN PROBLEM:\nPA denied, bridge eligible patients, are unaware of bridge support and the next steps needed to get bridge\nPatient will be directed t..."
+        },
+        {
+          "role": "user",
+          "content": "who to call for rinvoq reactions?",
+          "timestamp": "2025-05-22T07:33:56.348587"
+        },
+        {
+          "role": "assistant",
+          "content": "For RINVOQ reactions, you can call 1-800-2RINVOQ (1-800-274-6867) for assistance. This number provides access to registered nurses who are available Monday through Friday from 8:00 AM to 8:00 PM ET. If your Nurse Ambassador is unavailable, you can still reach out to this number for 24/7 access to registered nurses, with a nurse returning your call within 1 hour outside of regular hours.",
+          "timestamp": "2025-05-22T07:34:00.718830",
+          "context": "Document 1:\n.  It starts with your RINVOQ Complete Nurse Ambassador who is always there to get to know you.', 'CTA 1': 'Call 1-800-2RINVOQ (1-800-274-6867)', 'CTA...\n\nDocument 2:\n. | look forward to getting to know you and\nsupporting you with RINVOQ Complete resources.\nIfyour insurance changes or life throws you a curve ball, |...\n\nDocument 3:\n.  It starts with your RINVOQ Complete Nurse Ambassador who is always there to get to know you.', 'CTA 1': 'Call 1-800-2RINVOQ (1-800-274-6867)', 'CTA...\n\nDocument 4:\n.800.2RINVOQ (1.800.274.6867). Help is available\nMonday through Friday from 8:00 AM to 8:00 PM ET, except for holidays.\nVISUALLY CONNECT\nCreate a sens...\n\nDocument 5:\n. Message and data rates may apply.\nDEALING WITH A TREATMENT DISRUPTION? Visit SeeRTerms.com and see Terms of Use at abbv.ie/s-use. Text STOP to 33101..."
+        },
+        {
+          "role": "user",
+          "content": "what are some side effects?",
+          "timestamp": "2025-05-22T07:34:15.434060"
+        },
+        {
+          "role": "assistant",
+          "content": "Common side effects include upper respiratory tract infections (common cold, sinus infections), shingles (herpes zoster), herpes simplex virus infections (including cold sores), bronchitis, nausea, cough, fever, acne, headache, increased blood levels of creatine phosphokinase, allergic reactions, inflammation of hair follicles, stomach-area (abdominal) pain, increased weight, flu, tiredness, lower number of certain types of white blood cells (neutropenia, lymphopenia, leukopenia), muscle pain, flu-like illness, rash, increased blood cholesterol levels, increased liver enzyme levels, pneumonia, low number of red blood cells (anemia), and infection of the stomach and intestine (gastroenteritis). Additionally, a separation or tear to the lining of the back part of the eye (retinal detachment) has happened in people with atopic dermatitis treated with certain medications. Some people taking RINVOQ may see medicine residue (a whole tablet or tablet pieces) in their stool.",
+          "timestamp": "2025-05-22T07:34:30.460717",
+          "context": "Document 1:\n?\nCommonsideeffectsincludeupperrespiratorytractinfections(common\ncold,sinusinfections),shingles(herpeszoster),herpessimplexvirus\ninfections(includingc...\n\nDocument 2:\n?\nCommonsideeffectsincludeupperrespiratorytractinfections(common\ncold,sinusinfections),shingles(herpeszoster),herpessimplexvirus\ninfections(includingc...\n\nDocument 3:\n?\nCommon side effects include upper respiratory tract infections (common cold, sinus\ninfections), shingles (herpes herpes simplex virus infections (in...\n\nDocument 4:\n?\nCommonsideeffectsincludeupperrespiratorytractinfections(common\ncold,sinusinfections),shingles(herpeszoster),herpessimplexvirus\ninfections(includingc...\n\nDocument 5:\n?\nCommonsideeffectsincludeupperrespiratorytractinfections(common\ncold,sinusinfections),shingles(herpeszoster),herpessimplexvirus\ninfections(includingc..."
+        },
+        {
+          "role": "user",
+          "content": "What happen after PA DENIED email?",
+          "timestamp": "2025-05-22T07:36:00.890112"
+        },
+        {
+          "role": "assistant",
+          "content": "After a PA (Prior Authorization) is denied, the following steps are taken:\n\n1. If the PA was not initiated or is unknown, a phone call is made to the Nurse Ambassador resource. The focus is on preparing for the most challenging PAs by tasking the Field Access Specialist (FAS) to be aware of the denial reason. This is a manual task noted in the task details.\n\n2. If the PA is denied and there is an HCP (Healthcare Provider) attestation, it is possible that the task is not assigned to the FAS. The patient or HCP prioritization score is reviewed in the navigator. If the attestation of appeal is not received, the FAS is engaged to follow up. The task needs to be detailed.\n\n3. For PA denied cases, a 180-day task is set. Training on priority tasks within the Access Navigator is provided to understand the reason for denial and decide on resubmission or appeal based on the plan.\n\n4. A future action planned for January is to prefill the PA to help HCPs complete it.\n\n5. Patients are informed that their PA has been denied but there may be other options. They are driven to engage with myAbbVie Assist.\n\n6. The objective is to provide clear, timely updates to patients regarding their PA status and guide them on the next steps in their treatment journey, enhancing their understanding and engagement.",
+          "timestamp": "2025-05-22T07:36:10.358050",
+          "context": "Document 1:\n(For Commercially insured, PA denied patients)\nAppeal & Resubmission Activation\n\nDocument 2:\n.PA Not Initiated / unknown - Phone call to Nurse Ambassador\nresource. Focus on lowest common denominator to prepare for most challenging PAs is taski...\n\nDocument 3:\n.e. next steps) or PA approved (i.e\n\nDocument 4:\n.e. next steps) or PA approved (i.e\n\nDocument 5:\n.\\xa0\\xa0\\xa0\\xa0 PROJECT BACKGROUND (project information, goals, measurble objectives-From PSIT  brief), Objective:': '\u2022Patient informed that their P..."
+        }
+      ]
     }
   }
 }
